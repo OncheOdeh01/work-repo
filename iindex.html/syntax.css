@@ -9,6 +9,10 @@ h1{
  font-family: "arial"
 }
 
+.main {
+    color: white;
+}
+
 h2{
     font-size: 20px;
     font-weight: bolder;
